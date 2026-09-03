@@ -1,0 +1,75 @@
+[
+  {
+    "id": "TXN-10001",
+    "timestamp": "2026-09-03T12:15:00Z",
+    "status": "Completed",
+    "total_amount": 17.75,
+    "items": [
+      {
+        "menu_id": "FB-1001",
+        "name": "Classic Cheeseburger",
+        "quantity": 1,
+        "unit_price": 12.50,
+        "subtotal": 12.50
+      },
+      {
+        "menu_id": "FB-2001",
+        "name": "Iced Caramel Macchiato",
+        "quantity": 1,
+        "unit_price": 5.25,
+        "subtotal": 5.25
+      }
+    ]
+  },
+  {
+    "id": "TXN-10002",
+    "timestamp": "2026-09-03T13:05:30Z",
+    "status": "Completed",
+    "total_amount": 49.00,
+    "items": [
+      {
+        "menu_id": "FB-1002",
+        "name": "Margherita Pizza",
+        "quantity": 2,
+        "unit_price": 14.00,
+        "subtotal": 28.00
+      },
+      {
+        "menu_id": "FB-2002",
+        "name": "Mango Passionfruit Smoothie",
+        "quantity": 2,
+        "unit_price": 6.50,
+        "subtotal": 13.00
+      },
+      {
+        "menu_id": "FB-3001",
+        "name": "Chocolate Lava Cake",
+        "quantity": 1,
+        "unit_price": 8.00,
+        "subtotal": 8.00
+      }
+    ]
+  },
+  {
+    "id": "TXN-10003",
+    "timestamp": "2026-09-03T14:45:10Z",
+    "status": "Refunded",
+    "total_amount": 13.25,
+    "items": [
+      {
+        "menu_id": "FB-1003",
+        "name": "Truffle Fries",
+        "quantity": 1,
+        "unit_price": 6.75,
+        "subtotal": 6.75
+      },
+      {
+        "menu_id": "FB-2002",
+        "name": "Mango Passionfruit Smoothie",
+        "quantity": 1,
+        "unit_price": 6.50,
+        "subtotal": 6.50
+      }
+    ]
+  }
+]
