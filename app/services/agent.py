@@ -4,7 +4,7 @@ from langchain.agents import create_agent
 from langchain_ollama import ChatOllama
 
 from app.config import Settings, get_settings
-from app.constant import SYSTEM_PROMPT
+from app.services.prompts import get_qna_system_prompt
 from app.services.tools import make_tools
 
 
@@ -17,7 +17,7 @@ class QnaAgent:
         self._agent = create_agent(
             llm,
             make_tools(settings.data_dir),
-            system_prompt=SYSTEM_PROMPT,
+            system_prompt=get_qna_system_prompt(settings),
         )
 
     def ask(self, question: str) -> str:

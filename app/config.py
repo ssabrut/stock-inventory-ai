@@ -15,6 +15,11 @@ class Settings(BaseSettings):
     ollama_model: str = "qwen3.5:4b"
     data_dir: str = "data"
 
+    langfuse_public_key: str = ""
+    langfuse_secret_key: str = ""
+    langfuse_host: str = "http://localhost:3000"
+    langfuse_qna_prompt_name: str = "qna-system-prompt"
+
 
 @lru_cache
 def get_settings() -> Settings:
