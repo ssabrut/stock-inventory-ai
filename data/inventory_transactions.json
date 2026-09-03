@@ -1,0 +1,167 @@
+[
+  {
+    "id": "PO-10001",
+    "purchase_date": "2026-08-01T08:00:00Z",
+    "supplier": "MeatCo Distributors",
+    "ingredient_id": "ING-001",
+    "ingredient_name": "Ground Beef (80/20)",
+    "quantity": 20.0,
+    "unit": "kg",
+    "unit_cost": 8.50,
+    "total_cost": 170.00
+  },
+  {
+    "id": "PO-10002",
+    "purchase_date": "2026-08-02T09:15:00Z",
+    "supplier": "City Bakery",
+    "ingredient_id": "ING-002",
+    "ingredient_name": "Brioche Buns",
+    "quantity": 200,
+    "unit": "pieces",
+    "unit_cost": 0.50,
+    "total_cost": 100.00
+  },
+  {
+    "id": "PO-10003",
+    "purchase_date": "2026-08-10T10:30:00Z",
+    "supplier": "Dairy Farms Inc.",
+    "ingredient_id": "ING-003",
+    "ingredient_name": "Fresh Mozzarella",
+    "quantity": 10.0,
+    "unit": "kg",
+    "unit_cost": 12.00,
+    "total_cost": 120.00
+  },
+  {
+    "id": "PO-10004",
+    "purchase_date": "2026-08-12T11:00:00Z",
+    "supplier": "Italian Imports LLC",
+    "ingredient_id": "ING-004",
+    "ingredient_name": "San Marzano Tomato Sauce",
+    "quantity": 50,
+    "unit": "liters",
+    "unit_cost": 3.20,
+    "total_cost": 160.00
+  },
+  {
+    "id": "PO-10005",
+    "purchase_date": "2026-08-15T07:45:00Z",
+    "supplier": "MeatCo Distributors",
+    "ingredient_id": "ING-001",
+    "ingredient_name": "Ground Beef (80/20)",
+    "quantity": 15.0,
+    "unit": "kg",
+    "unit_cost": 9.00,
+    "total_cost": 135.00
+  },
+  {
+    "id": "PO-10006",
+    "purchase_date": "2026-08-15T14:20:00Z",
+    "supplier": "Gourmet Foods Wholesale",
+    "ingredient_id": "ING-005",
+    "ingredient_name": "White Truffle Oil",
+    "quantity": 3.0,
+    "unit": "liters",
+    "unit_cost": 45.00,
+    "total_cost": 135.00
+  },
+  {
+    "id": "PO-10007",
+    "purchase_date": "2026-08-18T09:00:00Z",
+    "supplier": "Global Roasters",
+    "ingredient_id": "ING-006",
+    "ingredient_name": "Espresso Beans (Dark Roast)",
+    "quantity": 15.0,
+    "unit": "kg",
+    "unit_cost": 18.00,
+    "total_cost": 270.00
+  },
+  {
+    "id": "PO-10008",
+    "purchase_date": "2026-08-20T06:30:00Z",
+    "supplier": "Dairy Farms Inc.",
+    "ingredient_id": "ING-007",
+    "ingredient_name": "Whole Milk",
+    "quantity": 100,
+    "unit": "liters",
+    "unit_cost": 1.10,
+    "total_cost": 110.00
+  },
+  {
+    "id": "PO-10009",
+    "purchase_date": "2026-08-20T08:15:00Z",
+    "supplier": "Sweet Supplies Co.",
+    "ingredient_id": "ING-008",
+    "ingredient_name": "Caramel Syrup",
+    "quantity": 20,
+    "unit": "bottles",
+    "unit_cost": 6.50,
+    "total_cost": 130.00
+  },
+  {
+    "id": "PO-10010",
+    "purchase_date": "2026-08-22T07:00:00Z",
+    "supplier": "Fresh Produce Market",
+    "ingredient_id": "ING-009",
+    "ingredient_name": "Fresh Mangoes",
+    "quantity": 40.0,
+    "unit": "kg",
+    "unit_cost": 4.00,
+    "total_cost": 160.00
+  },
+  {
+    "id": "PO-10011",
+    "purchase_date": "2026-08-25T13:45:00Z",
+    "supplier": "Gourmet Foods Wholesale",
+    "ingredient_id": "ING-010",
+    "ingredient_name": "Premium Vanilla Extract",
+    "quantity": 2.0,
+    "unit": "liters",
+    "unit_cost": 30.00,
+    "total_cost": 60.00
+  },
+  {
+    "id": "PO-10012",
+    "purchase_date": "2026-08-28T10:00:00Z",
+    "supplier": "City Bakery",
+    "ingredient_id": "ING-002",
+    "ingredient_name": "Brioche Buns",
+    "quantity": 100,
+    "unit": "pieces",
+    "unit_cost": 0.55,
+    "total_cost": 55.00
+  },
+  {
+    "id": "PO-10013",
+    "purchase_date": "2026-09-01T08:30:00Z",
+    "supplier": "Dairy Farms Inc.",
+    "ingredient_id": "ING-003",
+    "ingredient_name": "Fresh Mozzarella",
+    "quantity": 20.0,
+    "unit": "kg",
+    "unit_cost": 11.50,
+    "total_cost": 230.00
+  },
+  {
+    "id": "PO-10014",
+    "purchase_date": "2026-09-02T06:15:00Z",
+    "supplier": "Dairy Farms Inc.",
+    "ingredient_id": "ING-007",
+    "ingredient_name": "Whole Milk",
+    "quantity": 50,
+    "unit": "liters",
+    "unit_cost": 1.15,
+    "total_cost": 57.50
+  },
+  {
+    "id": "PO-10015",
+    "purchase_date": "2026-09-03T07:30:00Z",
+    "supplier": "MeatCo Distributors",
+    "ingredient_id": "ING-001",
+    "ingredient_name": "Ground Beef (80/20)",
+    "quantity": 10.0,
+    "unit": "kg",
+    "unit_cost": 8.75,
+    "total_cost": 87.50
+  }
+]
