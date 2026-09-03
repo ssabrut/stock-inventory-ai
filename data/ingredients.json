@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ING-001",
+    "name": "Ground Beef (80/20)",
+    "amount": 25.5,
+    "unit": "kg",
+    "purchased_at": "2026-09-01T08:30:00Z"
+  },
+  {
+    "id": "ING-002",
+    "name": "Brioche Buns",
+    "amount": 120,
+    "unit": "pieces",
+    "purchased_at": "2026-09-02T06:15:00Z"
+  },
+  {
+    "id": "ING-003",
+    "name": "Fresh Mozzarella",
+    "amount": 15.0,
+    "unit": "kg",
+    "purchased_at": "2026-08-31T09:45:00Z"
+  },
+  {
+    "id": "ING-004",
+    "name": "San Marzano Tomato Sauce",
+    "amount": 40,
+    "unit": "liters",
+    "purchased_at": "2026-08-28T14:20:00Z"
+  },
+  {
+    "id": "ING-005",
+    "name": "White Truffle Oil",
+    "amount": 2.5,
+    "unit": "liters",
+    "purchased_at": "2026-08-15T11:00:00Z"
+  },
+  {
+    "id": "ING-006",
+    "name": "Espresso Beans (Dark Roast)",
+    "amount": 10.0,
+    "unit": "kg",
+    "purchased_at": "2026-09-01T10:30:00Z"
+  },
+  {
+    "id": "ING-007",
+    "name": "Whole Milk",
+    "amount": 50,
+    "unit": "liters",
+    "purchased_at": "2026-09-03T05:30:00Z"
+  },
+  {
+    "id": "ING-008",
+    "name": "Caramel Syrup",
+    "amount": 12,
+    "unit": "bottles",
+    "purchased_at": "2026-08-20T13:45:00Z"
+  },
+  {
+    "id": "ING-009",
+    "name": "Fresh Mangoes",
+    "amount": 30,
+    "unit": "kg",
+    "purchased_at": "2026-09-02T07:00:00Z"
+  },
+  {
+    "id": "ING-010",
+    "name": "Premium Vanilla Extract",
+    "amount": 1.5,
+    "unit": "liters",
+    "purchased_at": "2026-07-10T09:00:00Z"
+  }
+]
